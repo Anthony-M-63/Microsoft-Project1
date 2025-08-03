@@ -25,7 +25,7 @@ The results are based on the three questions above
 ![Image 3](https://github.com/Anthony-M-63/Microsoft-Project1/blob/f12b86ef0c3bc2abd2f4d3f7b963e52b3fc84db1/3.png)
 
 3. Most succesful studios
-![Image 1](../OneDrive/Documents/Images/4.png)
+![Image 1](https://github.com/Anthony-M-63/Microsoft-Project1/blob/832949cbb8982642d526b435ac34a4deb4601924/4.png)
 ![Image 2](../OneDrive/Documents/Images/5.png)
 ![Image 3](../OneDrive/Documents/Images/6.png)
 ![Image 4](../OneDrive/Documents/Images/7.png)
