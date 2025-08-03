@@ -20,16 +20,16 @@ I looked for questions that spoke to the business challenge in order to examine 
 ## Results
 The results are based on the three questions above
 1. Most successful genres
-![Image 1](../OneDrive/Documents/Images/1.png)
+![Image 1](https://github.com/Anthony-M-63/Microsoft-Project1/blob/f39f784a6048243d59ee3a9b1498249338aca722/1.png)
 ![Image 2](../OneDrive/Documents/Images/2.png)
 ![Image 3](../OneDrive/Documents/Images/3.png)
 
-2. Most succesful studios
+3. Most succesful studios
 ![Image 1](../OneDrive/Documents/Images/4.png)
 ![Image 2](../OneDrive/Documents/Images/5.png)
 ![Image 3](../OneDrive/Documents/Images/6.png)
 ![Image 4](../OneDrive/Documents/Images/7.png)
-3. Runtime of a successful studio
+4. Runtime of a successful studio
 ![Image 1](../OneDrive/Documents/Images/9.png)
 
 ## Conclusions
