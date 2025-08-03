@@ -30,7 +30,7 @@ The results are based on the three questions above
 ![Image 3](https://github.com/Anthony-M-63/Microsoft-Project1/blob/572a9ffbf8534613fff2e4829197db8799f40adb/6.png)
 ![Image 4](https://github.com/Anthony-M-63/Microsoft-Project1/blob/192e39855c8937a618136a411611835b72e41600/7.png)
 4. Runtime of a successful studio
-![Image 1](../OneDrive/Documents/Images/9.png)
+![Image 1](https://github.com/Anthony-M-63/Microsoft-Project1/blob/e73de726be9bf43c2cb522b5ed27e7db91924f95/9.png)
 
 ## Conclusions
 Based on the results above I can confidently reccomend Microsoft to try a combination of the following genres:
