@@ -27,7 +27,7 @@ The results are based on the three questions above
 3. Most succesful studios
 ![Image 1](https://github.com/Anthony-M-63/Microsoft-Project1/blob/832949cbb8982642d526b435ac34a4deb4601924/4.png)
 ![Image 2](https://github.com/Anthony-M-63/Microsoft-Project1/blob/6885ed4b013e3e02d45e499212ee557ec51a31d9/5.png)
-![Image 3](../OneDrive/Documents/Images/6.png)
+![Image 3](https://github.com/Anthony-M-63/Microsoft-Project1/blob/572a9ffbf8534613fff2e4829197db8799f40adb/6.png)
 ![Image 4](../OneDrive/Documents/Images/7.png)
 4. Runtime of a successful studio
 ![Image 1](../OneDrive/Documents/Images/9.png)
