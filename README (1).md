@@ -22,7 +22,7 @@ The results are based on the three questions above
 1. Most successful genres
 ![Image 1](https://github.com/Anthony-M-63/Microsoft-Project1/blob/f39f784a6048243d59ee3a9b1498249338aca722/1.png)
 ![Image 2](https://github.com/Anthony-M-63/Microsoft-Project1/blob/40411e40722e397b19a3e37cef4c368fa9156165/2.png)
-![Image 3](../OneDrive/Documents/Images/3.png)
+![Image 3](https://github.com/Anthony-M-63/Microsoft-Project1/blob/f12b86ef0c3bc2abd2f4d3f7b963e52b3fc84db1/3.png)
 
 3. Most succesful studios
 ![Image 1](../OneDrive/Documents/Images/4.png)
